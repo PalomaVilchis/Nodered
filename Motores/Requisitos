@@ -1,0 +1,9 @@
+Para poder crear una interfaz con raspberry Pi y poder trabajrla de manera remota. Es necesario contar con algún software como Teamviewer o VNC Viewer. Este caso se ha elegido VNC Viewer.
+El software se descarga en: https://www.realvnc.com/es/connect/download/viewer/
+
+Elige el siste operativo con el cual estas trabajando.
+
+Para establecwer la conexion con la Raspberry, se necsita saber el número de IP del dispositivo para eso se eejecuta el comando: ifconfig desde la tareminal.
+Identifica el numero de IP, y anotalo. 
+
+Desde el VNC instalado en tu computadora, agrega el dispositivo, te pedira el numero de IP, el usuario y la contraseña. tarda un poco en realizar la conexion.
