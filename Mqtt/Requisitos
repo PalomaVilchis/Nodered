@@ -1,0 +1,6 @@
+Se tiene que instalar lo siguiente:
+
+pip3 install paho-mqtt
+pip install paho-mqtt
+
+Es la biblioteca que utulizaremos para enviar la información obtenida de los puertos de la Raspberry hacia la base de datos.
